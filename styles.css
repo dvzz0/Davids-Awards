@@ -1,0 +1,128 @@
+body{
+    background-image: url("https://media0.giphy.com/media/fnmgDzaOgIO6P293Hu/giphy.gif?cid=790b7611dd95215fb384efbaab4a8488d2fb0407562f8e19&rid=giphy.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #705a95;
+}
+.title {
+    text-align: center;
+    color: #0080FF;
+    font-family: 'Fredoka One', cursive;
+    font-size: 70px;
+    text-shadow: 2px 8px #000000;
+}
+.producer {
+    color: #99004D;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Martel', serif;
+    text-shadow: 9px 2px #000000;
+}
+.mira {
+    height: 50%;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.miratext {
+    text-align: center;
+    font-size: 60px;
+    color: purple;
+    font-family: 'Merienda', cursive;
+    display: block;
+    margin: 0 auto;
+}
+.artist {
+    text-align: center;
+    color: blue;
+    font-size: 60px;
+    font-family: 'Fruktur', cursive;
+    text-shadow: 9px 2px #000000;
+}
+.liluzipic {
+    height: 50%;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.uzi {
+    text-align: center;
+    font-size: 60px;
+    color: green;
+    font-family: 'Trocchi', serif;
+    display: block;
+    margin: 0 auto;
+}
+.oblique {
+    font-style: oblique;
+}
+.showtitle {
+    text-align: center;
+    text-shadow: 9px 2px #000000;
+    color: #FFFF7F;
+    font-size: 60px;
+    font-family: 'Patua One', cursive;
+    
+}
+.moneyheist {
+    text-align: center;
+    font-size: 70px;
+    color: red;
+    font-family: 'Abel', sans-serif;
+    display: block;
+    margin: 0 auto;
+}
+.moneypic {
+    height: 70%;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.brandtitle {
+    text-align: center;
+    text-shadow: 9px 2px #000000;
+    color:#ffa534;
+    font-size: 60px;
+    font-family: 'Acme', sans-serif;
+    
+}
+.niketitle { 
+    text-align: center;
+    font-size: 70px;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    margin: 0 auto;
+}
+.nikeswoosh {
+    height: 50%;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.basketballtitle {
+    text-align: center;
+    text-shadow: 9px 2px #000000;
+    color: white;
+    font-size: 60px;
+    font-family: 'Acme', sans-serif;
+}
+.kyriepic {
+    height: 70%;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.kyrie{
+    text-align: center;
+    font-size: 60px;
+    color: #54e1ff;
+    font-family: 'Courgette', cursive;
+    display: block;
+    margin: 0 auto;
+}
